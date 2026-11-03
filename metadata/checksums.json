@@ -1,0 +1,30 @@
+{
+  "IPT_all_proteins.csv": {
+    "bytes": 4102756,
+    "sha256": "b607ff7f675884652019a12c9f20bf481f5c47eb113cd15142902b3283aca391"
+  },
+  "IPT_domain_boundaries.csv": {
+    "bytes": 4003082,
+    "sha256": "882e5ae3510b2972a8e48a5d0fcc296b444005e6370ec8a45c90ec6ca404e11b"
+  },
+  "inventory_summary.json": {
+    "bytes": 469,
+    "sha256": "0dba701d69c79ef7e40a65b752c45db83e19fbb386fdf08a4bab2a060905a964"
+  },
+  "IPT_recovered_accessions.csv": {
+    "bytes": 8,
+    "sha256": "c0547c29089f8ff86a4b75e59bfeef7f30a23848c2effe4a4f40537c2948ec84"
+  },
+  "IPT_recovered_records.json.gz": {
+    "bytes": 55,
+    "sha256": "588e094636cfef56ea2c829b1cb2ea4ccb188ea95c4f38097e6cedc82b1d448d"
+  },
+  "IPT_reviewed_records.json": {
+    "bytes": 126720,
+    "sha256": "2d106f6e620afd56480eab9a188f27d936bd4ecf2658aa32ba7246023a9b7f49"
+  },
+  "interpro_IPR002909_page_001.json": {
+    "bytes": 270744,
+    "sha256": "6780938f44a58ff99531d7a1709112f1d906ce413536edc8eb8e274dfb9d182d"
+  }
+}

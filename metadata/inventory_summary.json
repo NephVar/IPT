@@ -1,0 +1,14 @@
+{
+  "interpro_entry": "IPR002909",
+  "interpro_reported_total": 56681,
+  "retrieved_total": 56414,
+  "reviewed_retrieved": 167,
+  "unreviewed_retrieved": 56247,
+  "domain_matches": 121543,
+  "unresolved_count_difference": 267,
+  "pagination_audited": true,
+  "duplicate_accessions": 0,
+  "invalid_domain_coordinates": 0,
+  "status": "Retrieved records complete; API count discrepancy unresolved",
+  "source": "https://www.ebi.ac.uk/interpro/entry/InterPro/IPR002909/"
+}
