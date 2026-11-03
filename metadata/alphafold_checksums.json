@@ -1,0 +1,14 @@
+{
+  "IPT_AlphaFold_proteins.csv": {
+    "bytes": 2136834,
+    "sha256": "32be927dc2002430884ed325aa51bc631bc1fee9deca4845dbb0a2437df15170"
+  },
+  "IPT_AlphaFold_domains.csv": {
+    "bytes": 1100338,
+    "sha256": "cb015863fea3baafb52c7414fd8ece94eb82121cadf8d63ed7348943cbc01c11"
+  },
+  "alphafold_inventory_summary.json": {
+    "bytes": 539,
+    "sha256": "2dbefea951ba10733b82a794d8248228dcbc1c140a2909c9b5399360cdeb5ebf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "interpro_entry": "IPR002909",
+  "reported_alphafold_proteins": 29076,
+  "retrieved_unique_alphafold_accessions": 28605,
+  "matched_inventory_proteins": 28605,
+  "matched_domain_annotations": 35174,
+  "unmatched_filtered_accessions": 0,
+  "note": "AlphaFold availability is based on InterPro annotations; coordinate downloads have not yet been validated.",
+  "retrieved_proteins": 28605,
+  "domain_annotations": 35174,
+  "reported_count_difference": 471,
+  "structure_download_status": "Not started",
+  "coordinate_files_verified": 0
+}
