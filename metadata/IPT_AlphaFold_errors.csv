@@ -28,28 +28,10 @@ A0A4W4HRZ5,4,1122,1216,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0
 A0A5F5PNT8,2,687,770,0.9286,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A5F5PNT8-F1-model_v6.pdb,
 A0A5F5PNT8,3,772,867,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A5F5PNT8-F1-model_v6.pdb,
 A0A5F5PNT8,4,869,965,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A5F5PNT8-F1-model_v6.pdb,
-A0A667FXC5,1,261,345,0.0,,Error: RuntimeError,,,Download failed
-A0A667FZR4,1,185,280,0.0,,Error: RuntimeError,,,Download failed
 A0A668SPA4,1,828,907,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A668SPA4-F1-model_v6.pdb,
 A0A668VNR2,1,548,641,0.1064,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
 A0A668VNR2,2,653,742,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
 A0A668VNR2,3,744,838,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
-A0A669P2F2,1,577,676,0.0,,Error: RuntimeError,,,Download failed
-A0A669P4H7,1,580,679,0.0,,Error: RuntimeError,,,Download failed
-A0A669P6H6,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669P6I1,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669P7W6,1,607,706,0.0,,Error: RuntimeError,,,Download failed
-A0A669P9X5,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669P9X9,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669PAP8,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669PDK5,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A669PDL0,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A670Z3I1,1,252,336,0.0,,Error: RuntimeError,,,Download failed
-A0A670Z3U1,1,182,278,0.0,,Error: RuntimeError,,,Download failed
-A0A670Z819,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A670ZKR2,1,549,648,0.0,,Error: RuntimeError,,,Download failed
-A0A671DJ35,1,617,716,0.0,,Error: RuntimeError,,,Download failed
-A0A671Q9Z9,1,262,346,0.0,,Error: RuntimeError,,,Download failed
 A0A671QB59,1,617,716,0.0,,Error: RuntimeError,,,Download failed
 A0A671QA04,1,254,338,0.0,,Error: RuntimeError,,,Download failed
 A0A671QBK7,1,589,688,0.0,,Error: RuntimeError,,,Download failed
