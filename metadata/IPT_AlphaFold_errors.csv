@@ -32,32 +32,8 @@ A0A668SPA4,1,828,907,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A6
 A0A668VNR2,1,548,641,0.1064,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
 A0A668VNR2,2,653,742,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
 A0A668VNR2,3,744,838,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A668VNR2-F1-model_v6.pdb,
-A0A674MQ92,1,196,293,0.0,,Error: RuntimeError,,,Download failed
-A0A674MQQ6,1,261,345,0.0,,Error: RuntimeError,,,Download failed
-A0A674MUG9,1,261,345,0.0,,Error: RuntimeError,,,Download failed
-A0A674MVK8,1,337,436,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5F470,1,576,674,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5F6Q7,1,591,690,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FF50,1,843,934,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FF50,2,935,1025,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FHU5,1,330,426,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FIM1,1,142,238,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FIM1,2,240,340,0.0,,Error: RuntimeError,,,Download failed
-A0A6A5FIM1,3,342,437,0.0,,Error: RuntimeError,,,Download failed
 A0A6E8V1A8,3,1042,1150,0.7156,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A6E8V1A8-F1-model_v6.pdb,
 A0A6E8V1A8,4,1171,1229,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A6E8V1A8-F1-model_v6.pdb,
-A0A6G0WB17,1,362,449,0.0,,Error: RuntimeError,,,Download failed
-A0A6G0YVD8,1,268,354,0.0,,Error: RuntimeError,,,Download failed
-A0A6G0YVD8,2,381,482,0.0,,Error: RuntimeError,,,Download failed
-A0A6G0YVM9,1,5,86,0.0,,Error: RuntimeError,,,Download failed
-A0A6G0Z078,1,367,472,0.0,,Error: RuntimeError,,,Download failed
-A0A6G0Z431,1,367,422,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8MZE8,1,206,302,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8MZF0,1,591,690,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8N0C4,1,544,623,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8N4B8,1,563,656,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8N4B8,2,657,740,0.0,,Error: RuntimeError,,,Download failed
-A0A6I8N6C4,1,8,91,0.0,,Error: RuntimeError,,,Download failed
 A0A6I9P2T1,1,251,335,0.0,,Error: RuntimeError,,,Download failed
 A0A6I9NZK3,1,81,136,0.0,,Error: RuntimeError,,,Download failed
 A0A6I9P690,1,252,336,0.0,,Error: RuntimeError,,,Download failed
