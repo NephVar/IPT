@@ -33086,7 +33086,7 @@ G3P4V0,1,261,345,1.0,92.89,Complete,structures/alphafold/G3/P4/G3P4V0/IPT_001_26
 G3P4T8,1,250,334,1.0,92.61,Complete,structures/alphafold/G3/P4/G3P4T8/IPT_001_250-334.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3P4T8-F1-model_v6.pdb,
 G3P574,1,318,414,1.0,97.08,Complete,structures/alphafold/G3/P5/G3P574/IPT_001_318-414.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3P574-F1-model_v6.pdb,
 G3PAN3,1,518,617,1.0,94.19,Complete,structures/alphafold/G3/PA/G3PAN3/IPT_001_518-617.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3PAN3-F1-model_v6.pdb,
-G3P6R0,1,214,298,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P6R0-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P6R0-F1-model_v6.pdb
+G3P6R0,1,214,298,1.0,91.89,Complete,structures/alphafold/G3/P6/G3P6R0/IPT_001_214-298.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3P6R0-F1-model_v6.pdb,
 G3PXD5,1,254,338,1.0,92.84,Complete,structures/alphafold/G3/PX/G3PXD5/IPT_001_254-338.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3PXD5-F1-model_v6.pdb,
 G3PEZ1,1,466,564,1.0,49.62,Complete,structures/alphafold/G3/PE/G3PEZ1/IPT_001_466-564.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3PEZ1-F1-model_v6.pdb,
 G3PXD3,1,251,335,1.0,94.05,Complete,structures/alphafold/G3/PX/G3PXD3/IPT_001_251-335.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G3PXD3-F1-model_v6.pdb,
@@ -33199,15 +33199,15 @@ G9KAC3,2,108,191,1.0,97.13,Complete,structures/alphafold/G9/KA/G9KAC3/IPT_002_10
 G9KBK0,1,77,141,1.0,92.21,Complete,structures/alphafold/G9/KB/G9KBK0/IPT_001_77-141.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KBK0-F1-model_v6.pdb,
 G9KD52,1,1,86,1.0,95.3,Complete,structures/alphafold/G9/KD/G9KD52/IPT_001_1-86.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD52-F1-model_v6.pdb,
 G9KD58,1,239,338,1.0,95.48,Complete,structures/alphafold/G9/KD/G9KD58/IPT_001_239-338.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD58-F1-model_v6.pdb,
-G9KD56,1,590,689,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD56-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD56-F1-model_v6.pdb
-G9KD60,1,605,704,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD60-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD60-F1-model_v6.pdb
-G9KD62,1,178,277,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD62-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD62-F1-model_v6.pdb
-G9KD75,1,162,263,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD75-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD75-F1-model_v6.pdb
-G9KD76,1,227,326,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD76-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD76-F1-model_v6.pdb
-G9KHD5,1,1,86,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KHD5-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KHD5-F1-model_v6.pdb
-G9KGU3,1,1,50,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KGU3-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KGU3-F1-model_v6.pdb
-G9KHD6,1,1,72,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KHD6-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KHD6-F1-model_v6.pdb
-G9KHD7,1,1,74,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KHD7-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KHD7-F1-model_v6.pdb
+G9KD56,1,590,689,1.0,93.29,Complete,structures/alphafold/G9/KD/G9KD56/IPT_001_590-689.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD56-F1-model_v6.pdb,
+G9KD60,1,605,704,1.0,92.52,Complete,structures/alphafold/G9/KD/G9KD60/IPT_001_605-704.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD60-F1-model_v6.pdb,
+G9KD62,1,178,277,1.0,93.8,Complete,structures/alphafold/G9/KD/G9KD62/IPT_001_178-277.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD62-F1-model_v6.pdb,
+G9KD75,1,162,263,1.0,93.31,Complete,structures/alphafold/G9/KD/G9KD75/IPT_001_162-263.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD75-F1-model_v6.pdb,
+G9KD76,1,227,326,1.0,92.27,Complete,structures/alphafold/G9/KD/G9KD76/IPT_001_227-326.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KD76-F1-model_v6.pdb,
+G9KHD5,1,1,86,1.0,97.21,Complete,structures/alphafold/G9/KH/G9KHD5/IPT_001_1-86.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHD5-F1-model_v6.pdb,
+G9KGU3,1,1,50,1.0,96.7,Complete,structures/alphafold/G9/KG/G9KGU3/IPT_001_1-50.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KGU3-F1-model_v6.pdb,
+G9KHD6,1,1,72,1.0,96.71,Complete,structures/alphafold/G9/KH/G9KHD6/IPT_001_1-72.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHD6-F1-model_v6.pdb,
+G9KHD7,1,1,74,1.0,93.66,Complete,structures/alphafold/G9/KH/G9KHD7/IPT_001_1-74.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHD7-F1-model_v6.pdb,
 G9KHF4,1,386,477,1.0,96.89,Complete,structures/alphafold/G9/KH/G9KHF4/IPT_001_386-477.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHF4-F1-model_v6.pdb,
 G9KHF4,2,478,558,1.0,80.12,Complete,structures/alphafold/G9/KH/G9KHF4/IPT_002_478-558.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHF4-F1-model_v6.pdb,
 G9KHF2,1,20,144,1.0,77.16,Complete,structures/alphafold/G9/KH/G9KHF2/IPT_001_20-144.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHF2-F1-model_v6.pdb,
@@ -33215,7 +33215,7 @@ G9KHF8,1,314,401,1.0,94.88,Complete,structures/alphafold/G9/KH/G9KHF8/IPT_001_31
 G9KHF8,2,403,491,1.0,91.84,Complete,structures/alphafold/G9/KH/G9KHF8/IPT_002_403-491.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHF8-F1-model_v6.pdb,
 G9KKR6,1,191,286,1.0,96.83,Complete,structures/alphafold/G9/KK/G9KKR6/IPT_001_191-286.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KKR6-F1-model_v6.pdb,
 G9KKR7,1,193,289,1.0,96.17,Complete,structures/alphafold/G9/KK/G9KKR7/IPT_001_193-289.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KKR7-F1-model_v6.pdb,
-G9KHE2,1,29,114,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KHE2-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KHE2-F1-model_v6.pdb
+G9KHE2,1,29,114,1.0,91.86,Complete,structures/alphafold/G9/KH/G9KHE2/IPT_001_29-114.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHE2-F1-model_v6.pdb,
 G9KHE2,2,116,216,1.0,85.63,Complete,structures/alphafold/G9/KH/G9KHE2/IPT_002_116-216.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHE2-F1-model_v6.pdb,
 G9KHE2,3,218,313,1.0,77.62,Complete,structures/alphafold/G9/KH/G9KHE2/IPT_003_218-313.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KHE2-F1-model_v6.pdb,
 G9KKR8,1,175,271,1.0,97.03,Complete,structures/alphafold/G9/KK/G9KKR8/IPT_001_175-271.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-G9KKR8-F1-model_v6.pdb,
@@ -33323,15 +33323,15 @@ H2PE04,1,250,351,1.0,93.05,Complete,structures/alphafold/H2/PE/H2PE04/IPT_001_25
 H2PHQ4,1,8,91,1.0,85.62,Complete,structures/alphafold/H2/PH/H2PHQ4/IPT_001_8-91.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2PHQ4-F1-model_v6.pdb,
 H2Q2H2,1,217,316,1.0,90.81,Complete,structures/alphafold/H2/Q2/H2Q2H2/IPT_001_217-316.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2Q2H2-F1-model_v6.pdb,
 H2Q2S3,1,2,64,1.0,92.96,Complete,structures/alphafold/H2/Q2/H2Q2S3/IPT_001_2-64.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2Q2S3-F1-model_v6.pdb,
-H2QBD7,1,599,698,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QBD7-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QBD7-F1-model_v6.pdb
-H2QGK5,1,263,359,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QGK5-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QGK5-F1-model_v6.pdb
-H2QHY2,1,184,279,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QHY2-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QHY2-F1-model_v6.pdb
-H2QPY8,1,250,351,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QPY8-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QPY8-F1-model_v6.pdb
-H2QRX0,1,261,345,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QRX0-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QRX0-F1-model_v6.pdb
-H2QS72,1,8,91,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2QS72-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2QS72-F1-model_v6.pdb
-H2R4A7,1,539,619,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2R4A7-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2R4A7-F1-model_v6.pdb
-H2R4F5,1,577,676,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2R4F5-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2R4F5-F1-model_v6.pdb
-H2R6P5,1,595,694,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2R6P5-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2R6P5-F1-model_v6.pdb
+H2QBD7,1,599,698,1.0,93.17,Complete,structures/alphafold/H2/QB/H2QBD7/IPT_001_599-698.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QBD7-F1-model_v6.pdb,
+H2QGK5,1,263,359,1.0,96.95,Complete,structures/alphafold/H2/QG/H2QGK5/IPT_001_263-359.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QGK5-F1-model_v6.pdb,
+H2QHY2,1,184,279,1.0,96.71,Complete,structures/alphafold/H2/QH/H2QHY2/IPT_001_184-279.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QHY2-F1-model_v6.pdb,
+H2QPY8,1,250,351,1.0,93.34,Complete,structures/alphafold/H2/QP/H2QPY8/IPT_001_250-351.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QPY8-F1-model_v6.pdb,
+H2QRX0,1,261,345,1.0,93.41,Complete,structures/alphafold/H2/QR/H2QRX0/IPT_001_261-345.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QRX0-F1-model_v6.pdb,
+H2QS72,1,8,91,1.0,85.16,Complete,structures/alphafold/H2/QS/H2QS72/IPT_001_8-91.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2QS72-F1-model_v6.pdb,
+H2R4A7,1,539,619,1.0,87.91,Complete,structures/alphafold/H2/R4/H2R4A7/IPT_001_539-619.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2R4A7-F1-model_v6.pdb,
+H2R4F5,1,577,676,1.0,94.64,Complete,structures/alphafold/H2/R4/H2R4F5/IPT_001_577-676.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2R4F5-F1-model_v6.pdb,
+H2R6P5,1,595,694,1.0,92.49,Complete,structures/alphafold/H2/R6/H2R6P5/IPT_001_595-694.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2R6P5-F1-model_v6.pdb,
 H2REE3,1,251,335,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-H2REE3-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-H2REE3-F1-model_v6.pdb
 H2RVL4,1,8,90,1.0,86.0,Complete,structures/alphafold/H2/RV/H2RVL4/IPT_001_8-90.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2RVL4-F1-model_v6.pdb,
 H2SNB2,1,242,326,1.0,94.06,Complete,structures/alphafold/H2/SN/H2SNB2/IPT_001_242-326.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-H2SNB2-F1-model_v6.pdb,
