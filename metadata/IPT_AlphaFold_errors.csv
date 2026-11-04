@@ -10,36 +10,6 @@ A0A3Q1C4C1,2,821,959,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3
 A0A3Q1C9J0,4,1110,1205,0.6875,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q1C9J0-F1-model_v6.pdb,
 A0A3Q2HAK2,1,1004,1103,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q2HAK2-F1-model_v6.pdb,
 A0A3Q7MX79,1,908,987,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q7MX79-F1-model_v6.pdb,
-A0A3S0GYU2,1,161,233,0.0,,Error: RuntimeError,,,Download failed
-A0A3S0MF41,1,236,313,0.0,,Error: RuntimeError,,,Download failed
-A0A3S0VH51,1,133,203,0.0,,Error: RuntimeError,,,Download failed
-A0A3S0H9F5,1,510,573,0.0,,Error: RuntimeError,,,Download failed
-A0A3S0ZAW1,1,526,611,0.0,,Error: RuntimeError,,,Download failed
-A0A3S0ZAW1,2,624,722,0.0,,Error: RuntimeError,,,Download failed
-A0A401T6J2,1,271,372,0.0,,Error: RuntimeError,,,Download failed
-A0A401TKN2,1,6,102,0.0,,Error: RuntimeError,,,Download failed
-A0A401TVK8,1,1,88,0.0,,Error: RuntimeError,,,Download failed
-A0A401UAX9,1,222,296,0.0,,Error: RuntimeError,,,Download failed
-A0A401UBA9,1,23,104,0.0,,Error: RuntimeError,,,Download failed
-A0A401UCG8,1,37,116,0.0,,Error: RuntimeError,,,Download failed
-A0A401UBD4,1,29,109,0.0,,Error: RuntimeError,,,Download failed
-A0A401UDR2,1,23,83,0.0,,Error: RuntimeError,,,Download failed
-A0A401WCU9,1,198,277,0.0,,Error: RuntimeError,,,Download failed
-A0A401WCU9,2,286,367,0.0,,Error: RuntimeError,,,Download failed
-A0A401YJC2,1,353,437,0.0,,Error: RuntimeError,,,Download failed
-A0A401YJC2,2,439,523,0.0,,Error: RuntimeError,,,Download failed
-A0A443SVY2,1,591,680,0.0,,Error: RuntimeError,,,Download failed
-A0A443SVY2,2,681,769,0.0,,Error: RuntimeError,,,Download failed
-A0A443SVY2,3,771,861,0.0,,Error: RuntimeError,,,Download failed
-A0A443SVY2,4,885,978,0.0,,Error: RuntimeError,,,Download failed
-A0A443YJN7,1,41,117,0.0,,Error: RuntimeError,,,Download failed
-A0A443YJN7,2,121,198,0.0,,Error: RuntimeError,,,Download failed
-A0A443YJN7,3,201,276,0.0,,Error: RuntimeError,,,Download failed
-A0A443YJN7,4,281,357,0.0,,Error: RuntimeError,,,Download failed
-A0A443YJN7,5,364,430,0.0,,Error: RuntimeError,,,Download failed
-A0A444GL99,1,188,267,0.0,,Error: RuntimeError,,,Download failed
-A0A444MRN2,1,154,229,0.0,,Error: RuntimeError,,,Download failed
-A0A444PY89,1,57,135,0.0,,Error: RuntimeError,,,Download failed
 A0A452CLQ9,1,348,428,0.0,,Error: RuntimeError,,,Download failed
 A0A452DXG3,1,249,350,0.0,,Error: RuntimeError,,,Download failed
 A0A452DXI6,1,252,353,0.0,,Error: RuntimeError,,,Download failed
