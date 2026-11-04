@@ -3,29 +3,6 @@ A0A096NL27,1,951,1042,0.0,,Error: RuntimeError,,,Download failed
 A0A096NL27,2,1043,1129,0.0,,Error: RuntimeError,,,Download failed
 A0A096NL27,3,1131,1241,0.0,,Error: RuntimeError,,,Download failed
 A0A0C4DGL0,1,873,952,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A0C4DGL0-F1-model_v6.pdb,
-A0A3B5LHQ6,1,193,289,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LME1,1,253,337,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LMI4,1,624,708,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LUW8,1,429,518,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LUW8,2,519,609,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LUW8,3,611,690,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LUX3,1,445,568,0.0,,Error: RuntimeError,,,Download failed
-A0A3B5LUX3,2,570,649,0.0,,Error: RuntimeError,,,Download failed
-A0A3E4IKC1,1,47,107,0.0,,Error: RuntimeError,,,Download failed
-A0A3E4KQN9,1,140,199,0.0,,Error: RuntimeError,,,Download failed
-A0A3E4N2Z2,1,52,129,0.0,,Error: RuntimeError,,,Download failed
-A0A3E5G897,1,39,124,0.0,,Error: RuntimeError,,,Download failed
-A0A3E5G8A0,1,38,117,0.0,,Error: RuntimeError,,,Download failed
-A0A3E5GBK2,1,36,104,0.0,,Error: RuntimeError,,,Download failed
-A0A3E5GBU3,1,45,118,0.0,,Error: RuntimeError,,,Download failed
-A0A3E5GMZ2,1,44,126,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0XYD0,1,518,653,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0Y4Y3,1,344,460,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0YAB0,1,366,461,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0YAB0,2,462,547,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0YAB0,3,549,643,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0YAL0,1,170,266,0.0,,Error: RuntimeError,,,Download failed
-A0A3N0YZT4,1,76,160,0.0,,Error: RuntimeError,,,Download failed
 A0A3P8RCU7,1,667,775,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3P8RCU7-F1-model_v6.pdb,
 A0A3P8RE91,1,657,765,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3P8RE91-F1-model_v6.pdb,
 A0A3P8S201,1,249,350,0.0,,Error: RuntimeError,,,Download failed
