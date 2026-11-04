@@ -1137,3 +1137,15 @@ A0A8C4F8M6,1,513,612,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files
 A0A8C4FCX8,1,523,621,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4FCX8-F1-model_v6.pdb,HTTP 429 after 5 tries
 A0A8C4FFX0,1,545,643,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4FFX0-F1-model_v6.pdb,HTTP 429 after 5 tries
 A0A8C4FGL9,1,558,656,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4FGL9-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C4RFC9,1,8,91,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4RFC9-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C4RDX2,1,188,284,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4RDX2-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C4RY87,1,222,306,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4RY87-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C4REN6,1,261,345,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4REN6-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C4RB19,1,340,436,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C4RB19-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5A4C5,1,582,681,0.63,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5A4C5-F1-model_v6.pdb,
+A0A8C5APM2,1,197,293,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5APM2-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5AVJ3,1,444,513,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5AVJ3-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5B176,1,252,336,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5B176-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5B709,1,204,305,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5B709-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5BAV6,1,250,351,0.0,,Error: RuntimeError,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5BAV6-F1-model_v6.pdb,HTTP 429 after 5 tries
+A0A8C5C8S7,1,619,718,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A8C5C8S7-F1-model_v6.pdb,
