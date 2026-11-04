@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-04T16:06:50.432863+00:00",
+  "generated_utc": "2026-11-04T16:10:59.934687+00:00",
   "target_domains": 35174,
-  "completed_domains_with_files": 20906,
-  "deferred_domain_records": 1175,
-  "deferred_proteins": 967,
-  "unconfirmed_domain_targets": 14268,
-  "last_batch": 71
+  "completed_domains_with_files": 21158,
+  "deferred_domain_records": 1185,
+  "deferred_proteins": 977,
+  "unconfirmed_domain_targets": 14016,
+  "last_batch": 72
 }
