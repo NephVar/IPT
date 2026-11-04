@@ -37,28 +37,6 @@ A0A6E8V1A8,4,1171,1229,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0
 A0A6J0B8M8,1,843,935,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A6J0B8M8-F1-model_v6.pdb,
 A0A6J0B8M8,2,936,1020,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A6J0B8M8-F1-model_v6.pdb,
 A0A6J0B8M8,3,1154,1197,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A6J0B8M8-F1-model_v6.pdb,
-A0A6P8KWR2,1,418,522,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8KXE1,1,637,718,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8L2C7,1,254,356,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8W8R9,1,252,336,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8WCH1,1,233,335,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8WE53,1,417,534,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8WI92,1,5,86,0.0,,Error: RuntimeError,,,Download failed
-A0A6P8WPT3,1,242,343,0.0,,Error: RuntimeError,,,Download failed
-A0A6Q2ZK37,1,245,329,0.0,,Error: RuntimeError,,,Download failed
-A0A6Q2ZK39,1,537,636,0.0,,Error: RuntimeError,,,Download failed
-A0A6Q2ZN36,1,616,715,0.0,,Error: RuntimeError,,,Download failed
-A0A6Q2ZN46,1,254,338,0.0,,Error: RuntimeError,,,Download failed
-A0A6Q2ZN66,1,264,354,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8KCB6,1,258,342,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8Q576,1,703,782,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QB70,1,227,326,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QDZ2,1,227,326,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QB73,1,216,315,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QES2,1,499,592,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QES2,2,593,676,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QES2,3,679,726,0.0,,Error: RuntimeError,,,Download failed
-A0A7F8QI34,1,177,275,0.0,,Error: RuntimeError,,,Download failed
 A0A7J5XZ17,1,207,304,0.0,,Error: RuntimeError,,,Download failed
 A0A7J5Y8M3,1,32,137,0.0,,Error: RuntimeError,,,Download failed
 A0A7J5YE23,1,310,406,0.0,,Error: RuntimeError,,,Download failed
