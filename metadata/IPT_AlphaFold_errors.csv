@@ -10,33 +10,6 @@ A0A3Q1C4C1,2,821,959,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3
 A0A3Q1C9J0,4,1110,1205,0.6875,,Partial,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q1C9J0-F1-model_v6.pdb,
 A0A3Q2HAK2,1,1004,1103,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q2HAK2-F1-model_v6.pdb,
 A0A3Q7MX79,1,908,987,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A3Q7MX79-F1-model_v6.pdb,
-A0A4Q7KJP2,1,212,298,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7KJP2,2,300,394,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7KJP2,3,396,479,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7KJP2,4,481,566,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7LQ44,1,60,129,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7M7C8,1,44,114,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7MLC9,1,210,264,0.0,,Error: RuntimeError,,,Download failed
-A0A4Q7MM09,1,211,288,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2B3V7,1,39,101,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2KA74,1,387,468,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2KNE7,1,537,621,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2LQX0,1,8,89,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2M4F0,1,866,989,0.0,,Error: RuntimeError,,,Download failed
-A0A4S2M5F4,1,879,1002,0.0,,Error: RuntimeError,,,Download failed
-A0A4V2Z3B5,1,39,108,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3DN14,1,325,409,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3GLT6,1,32,93,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3GLT6,2,107,184,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3GLT6,3,187,256,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3GLT6,4,268,338,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3GLT6,5,351,419,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3IDY6,1,114,174,0.0,,Error: RuntimeError,,,Download failed
-A0A4V3JFP2,1,38,112,0.0,,Error: RuntimeError,,,Download failed
-A0A4W3K2K5,1,587,686,0.0,,Error: RuntimeError,,,Download failed
-A0A4W3K782,1,8,90,0.0,,Error: RuntimeError,,,Download failed
-A0A4W3K829,1,253,337,0.0,,Error: RuntimeError,,,Download failed
-A0A4W3K885,1,8,90,0.0,,Error: RuntimeError,,,Download failed
 A0A4W3K891,1,8,90,0.0,,Error: RuntimeError,,,Download failed
 A0A4W4E4I0,1,784,871,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A4W4E4I0-F1-model_v6.pdb,
 A0A4W4E4I0,2,872,961,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A4W4E4I0-F1-model_v6.pdb,
