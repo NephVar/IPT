@@ -1,13 +1,13 @@
 {
-  "updated_utc": "2026-11-04T21:54:57.149809+00:00",
+  "updated_utc": "2026-11-04T21:56:40.052975+00:00",
   "interpro": "IPR002909",
   "protein_targets": 28605,
   "domain_targets": 35174,
-  "complete_records": 34358,
-  "deferred_records": 816,
+  "complete_records": 34378,
+  "deferred_records": 796,
   "not_attempted_records": 0,
   "last_checkpoint_batch": 114,
   "last_checkpoint_new_files": 57,
-  "recovery_last_checkpoint": 41,
+  "recovery_last_checkpoint": 42,
   "recovery_last_new_files": 20
 }
