@@ -1,30 +1,8 @@
 uniprot,domain_number,start,end,coverage,mean_plddt,status,file,source_url,error_detail
-A0A093CAP0,1,532,631,0.0,,Error: RuntimeError,,,Download failed
-A0A093CE66,1,208,294,0.0,,Error: RuntimeError,,,Download failed
-A0A093CE66,2,296,379,0.0,,Error: RuntimeError,,,Download failed
-A0A093CG90,1,1,89,0.0,,Error: RuntimeError,,,Download failed
-A0A093CG90,2,91,176,0.0,,Error: RuntimeError,,,Download failed
-A0A093CG90,3,178,278,0.0,,Error: RuntimeError,,,Download failed
-A0A093CG90,4,280,376,0.0,,Error: RuntimeError,,,Download failed
-A0A096MFR0,1,218,320,0.0,,Error: RuntimeError,,,Download failed
-A0A096MGS3,1,455,553,0.0,,Error: RuntimeError,,,Download failed
-A0A096MGF9,1,399,498,0.0,,Error: RuntimeError,,,Download failed
-A0A096N2T6,1,193,289,0.0,,Error: RuntimeError,,,Download failed
-A0A096N690,1,252,336,0.0,,Error: RuntimeError,,,Download failed
-A0A096NGI8,1,230,314,0.0,,Error: RuntimeError,,,Download failed
-A0A096NDA9,1,272,373,0.0,,Error: RuntimeError,,,Download failed
 A0A096NL27,1,951,1042,0.0,,Error: RuntimeError,,,Download failed
 A0A096NL27,2,1043,1129,0.0,,Error: RuntimeError,,,Download failed
 A0A096NL27,3,1131,1241,0.0,,Error: RuntimeError,,,Download failed
-A0A096NKI4,1,8,91,0.0,,Error: RuntimeError,,,Download failed
-A0A096NQW0,1,185,280,0.0,,Error: RuntimeError,,,Download failed
-A0A0C1TT77,1,403,468,0.0,,Error: RuntimeError,,,Download failed
-A0A0C2F623,1,22,110,0.0,,Error: RuntimeError,,,Download failed
-A0A0C2C2R8,1,18,90,0.0,,Error: RuntimeError,,,Download failed
-A0A0C2FGQ1,1,122,161,0.0,,Error: RuntimeError,,,Download failed
-A0A0C2GLT6,1,274,354,0.0,,Error: RuntimeError,,,Download failed
 A0A0C4DGL0,1,873,952,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0A0C4DGL0-F1-model_v6.pdb,
-A0A0D9S073,1,581,680,0.0,,Error: RuntimeError,,,Download failed
 A0A0D9VUR5,1,448,523,0.0,,Error: RuntimeError,,,Download failed
 A0A0D9S1S3,1,165,261,0.0,,Error: RuntimeError,,,Download failed
 A0A0D9VUR6,1,448,523,0.0,,Error: RuntimeError,,,Download failed
