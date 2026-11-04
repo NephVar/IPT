@@ -11025,8 +11025,8 @@ A0A5J6MDK3,1,70,144,1.0,90.65,Complete,structures/alphafold/A0/A5/A0A5J6MDK3/IPT
 A0A5J6MTB8,1,88,158,1.0,89.81,Complete,structures/alphafold/A0/A5/A0A5J6MTB8/IPT_001_88-158.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J6MTB8-F1-model_v6.pdb,
 A0A5J9TRS6,1,453,528,1.0,85.14,Complete,structures/alphafold/A0/A5/A0A5J9TRS6/IPT_001_453-528.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9TRS6-F1-model_v6.pdb,
 A0A5J9V5Y6,1,447,520,1.0,83.98,Complete,structures/alphafold/A0/A5/A0A5J9V5Y6/IPT_001_447-520.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9V5Y6-F1-model_v6.pdb,
-A0A5J9VJN5,1,310,385,0.0,,Error: RuntimeError,,,Download failed
-A0A5J9VK92,1,91,166,0.0,,Error: RuntimeError,,,Download failed
+A0A5J9VJN5,1,310,385,1.0,81.5,Complete,structures/alphafold/A0/A5/A0A5J9VJN5/IPT_001_310-385.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9VJN5-F1-model_v6.pdb,
+A0A5J9VK92,1,91,166,1.0,83.55,Complete,structures/alphafold/A0/A5/A0A5J9VK92/IPT_001_91-166.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9VK92-F1-model_v6.pdb,
 A0A5J9WFQ4,1,471,545,1.0,85.54,Complete,structures/alphafold/A0/A5/A0A5J9WFQ4/IPT_001_471-545.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9WFQ4-F1-model_v6.pdb,
 A0A5J9WJH5,1,481,553,1.0,87.83,Complete,structures/alphafold/A0/A5/A0A5J9WJH5/IPT_001_481-553.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5J9WJH5-F1-model_v6.pdb,
 A0A5K1VHI6,1,193,289,1.0,96.99,Complete,structures/alphafold/A0/A5/A0A5K1VHI6/IPT_001_193-289.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5K1VHI6-F1-model_v6.pdb,
@@ -11154,11 +11154,11 @@ A0A5N5KYS9,1,554,653,1.0,93.01,Complete,structures/alphafold/A0/A5/A0A5N5KYS9/IP
 A0A5N5L6U4,1,470,556,1.0,83.96,Complete,structures/alphafold/A0/A5/A0A5N5L6U4/IPT_001_470-556.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5L6U4-F1-model_v6.pdb,
 A0A5N5L8R7,1,511,589,1.0,85.42,Complete,structures/alphafold/A0/A5/A0A5N5L8R7/IPT_001_511-589.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5L8R7-F1-model_v6.pdb,
 A0A5N5LBK3,1,8,91,1.0,83.78,Complete,structures/alphafold/A0/A5/A0A5N5LBK3/IPT_001_8-91.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5LBK3-F1-model_v6.pdb,
-A0A5N5LPC8,1,442,528,0.0,,Error: RuntimeError,,,Download failed
-A0A5N5LV04,1,521,620,0.0,,Error: RuntimeError,,,Download failed
-A0A5N5LZK5,1,526,611,0.0,,Error: RuntimeError,,,Download failed
-A0A5N5M1V7,1,260,344,0.0,,Error: RuntimeError,,,Download failed
-A0A5N5M5F9,1,303,399,0.0,,Error: RuntimeError,,,Download failed
+A0A5N5LPC8,1,442,528,1.0,84.25,Complete,structures/alphafold/A0/A5/A0A5N5LPC8/IPT_001_442-528.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5LPC8-F1-model_v6.pdb,
+A0A5N5LV04,1,521,620,1.0,94.65,Complete,structures/alphafold/A0/A5/A0A5N5LV04/IPT_001_521-620.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5LV04-F1-model_v6.pdb,
+A0A5N5LZK5,1,526,611,1.0,85.65,Complete,structures/alphafold/A0/A5/A0A5N5LZK5/IPT_001_526-611.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5LZK5-F1-model_v6.pdb,
+A0A5N5M1V7,1,260,344,1.0,93.06,Complete,structures/alphafold/A0/A5/A0A5N5M1V7/IPT_001_260-344.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5M1V7-F1-model_v6.pdb,
+A0A5N5M5F9,1,303,399,1.0,96.3,Complete,structures/alphafold/A0/A5/A0A5N5M5F9/IPT_001_303-399.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5M5F9-F1-model_v6.pdb,
 A0A5N5MGD4,1,254,338,1.0,93.2,Complete,structures/alphafold/A0/A5/A0A5N5MGD4/IPT_001_254-338.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5MGD4-F1-model_v6.pdb,
 A0A5N5ML44,1,263,347,1.0,92.89,Complete,structures/alphafold/A0/A5/A0A5N5ML44/IPT_001_263-347.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5ML44-F1-model_v6.pdb,
 A0A5N5NFV9,1,609,708,1.0,93.56,Complete,structures/alphafold/A0/A5/A0A5N5NFV9/IPT_001_609-708.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A5N5NFV9-F1-model_v6.pdb,
@@ -11328,11 +11328,11 @@ A0A662YXF3,1,568,657,1.0,80.71,Complete,structures/alphafold/A0/A6/A0A662YXF3/IP
 A0A663DJH0,1,253,337,1.0,93.84,Complete,structures/alphafold/A0/A6/A0A663DJH0/IPT_001_253-337.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663DJH0-F1-model_v6.pdb,
 A0A663E464,1,184,279,1.0,97.14,Complete,structures/alphafold/A0/A6/A0A663E464/IPT_001_184-279.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663E464-F1-model_v6.pdb,
 A0A663DNJ8,1,597,696,1.0,93.08,Complete,structures/alphafold/A0/A6/A0A663DNJ8/IPT_001_597-696.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663DNJ8-F1-model_v6.pdb,
-A0A663E8C5,1,254,355,0.0,,Error: RuntimeError,,,Download failed
-A0A663E8T9,1,262,346,0.0,,Error: RuntimeError,,,Download failed
-A0A663E9M3,1,262,346,0.0,,Error: RuntimeError,,,Download failed
-A0A663EKP4,1,252,336,0.0,,Error: RuntimeError,,,Download failed
-A0A663EMQ7,1,355,454,0.0,,Error: RuntimeError,,,Download failed
+A0A663E8C5,1,254,355,1.0,91.26,Complete,structures/alphafold/A0/A6/A0A663E8C5/IPT_001_254-355.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663E8C5-F1-model_v6.pdb,
+A0A663E8T9,1,262,346,1.0,92.28,Complete,structures/alphafold/A0/A6/A0A663E8T9/IPT_001_262-346.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663E8T9-F1-model_v6.pdb,
+A0A663E9M3,1,262,346,1.0,92.29,Complete,structures/alphafold/A0/A6/A0A663E9M3/IPT_001_262-346.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663E9M3-F1-model_v6.pdb,
+A0A663EKP4,1,252,336,1.0,93.54,Complete,structures/alphafold/A0/A6/A0A663EKP4/IPT_001_252-336.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663EKP4-F1-model_v6.pdb,
+A0A663EMQ7,1,355,454,1.0,94.99,Complete,structures/alphafold/A0/A6/A0A663EMQ7/IPT_001_355-454.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663EMQ7-F1-model_v6.pdb,
 A0A663FE24,1,579,678,1.0,92.66,Complete,structures/alphafold/A0/A6/A0A663FE24/IPT_001_579-678.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663FE24-F1-model_v6.pdb,
 A0A663ES13,1,249,348,1.0,91.15,Complete,structures/alphafold/A0/A6/A0A663ES13/IPT_001_249-348.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663ES13-F1-model_v6.pdb,
 A0A663FG60,1,250,334,1.0,94.18,Complete,structures/alphafold/A0/A6/A0A663FG60/IPT_001_250-334.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A663FG60-F1-model_v6.pdb,
@@ -11434,14 +11434,14 @@ A0A665WGB9,1,431,529,1.0,94.26,Complete,structures/alphafold/A0/A6/A0A665WGB9/IP
 A0A665WH67,1,228,314,1.0,89.67,Complete,structures/alphafold/A0/A6/A0A665WH67/IPT_001_228-314.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665WH67-F1-model_v6.pdb,
 A0A665WGQ9,1,261,345,1.0,93.09,Complete,structures/alphafold/A0/A6/A0A665WGQ9/IPT_001_261-345.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665WGQ9-F1-model_v6.pdb,
 A0A665WH72,1,233,319,1.0,89.78,Complete,structures/alphafold/A0/A6/A0A665WH72/IPT_001_233-319.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665WH72-F1-model_v6.pdb,
-A0A665XBA8,1,261,345,0.0,,Error: RuntimeError,,,Download failed
-A0A665XBB2,1,261,345,0.0,,Error: RuntimeError,,,Download failed
-A0A665XBB8,1,250,334,0.0,,Error: RuntimeError,,,Download failed
-A0A665XBD9,1,253,337,0.0,,Error: RuntimeError,,,Download failed
-A0A665XBE5,1,260,344,0.0,,Error: RuntimeError,,,Download failed
-A0A665XC77,1,252,336,0.0,,Error: RuntimeError,,,Download failed
-A0A665XD31,1,253,337,0.0,,Error: RuntimeError,,,Download failed
-A0A667FWL4,1,249,350,0.0,,Error: RuntimeError,,,Download failed
+A0A665XBA8,1,261,345,1.0,91.69,Complete,structures/alphafold/A0/A6/A0A665XBA8/IPT_001_261-345.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XBA8-F1-model_v6.pdb,
+A0A665XBB2,1,261,345,1.0,91.73,Complete,structures/alphafold/A0/A6/A0A665XBB2/IPT_001_261-345.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XBB2-F1-model_v6.pdb,
+A0A665XBB8,1,250,334,1.0,92.95,Complete,structures/alphafold/A0/A6/A0A665XBB8/IPT_001_250-334.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XBB8-F1-model_v6.pdb,
+A0A665XBD9,1,253,337,1.0,93.64,Complete,structures/alphafold/A0/A6/A0A665XBD9/IPT_001_253-337.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XBD9-F1-model_v6.pdb,
+A0A665XBE5,1,260,344,1.0,92.97,Complete,structures/alphafold/A0/A6/A0A665XBE5/IPT_001_260-344.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XBE5-F1-model_v6.pdb,
+A0A665XC77,1,252,336,1.0,93.16,Complete,structures/alphafold/A0/A6/A0A665XC77/IPT_001_252-336.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XC77-F1-model_v6.pdb,
+A0A665XD31,1,253,337,1.0,94.16,Complete,structures/alphafold/A0/A6/A0A665XD31/IPT_001_253-337.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A665XD31-F1-model_v6.pdb,
+A0A667FWL4,1,249,350,1.0,93.28,Complete,structures/alphafold/A0/A6/A0A667FWL4/IPT_001_249-350.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A667FWL4-F1-model_v6.pdb,
 A0A667FXC5,1,261,345,0.0,,Error: RuntimeError,,,Download failed
 A0A667FZR4,1,185,280,0.0,,Error: RuntimeError,,,Download failed
 A0A667G1M3,1,563,656,1.0,86.6,Complete,structures/alphafold/A0/A6/A0A667G1M3/IPT_001_563-656.pdb.gz,https://alphafold.ebi.ac.uk/files/AF-A0A667G1M3-F1-model_v6.pdb,
