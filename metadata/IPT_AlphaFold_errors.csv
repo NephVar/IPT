@@ -45,29 +45,11 @@ A0A8C8CVE2,3,1044,1130,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-A0
 A0ABI8AP74,1,193,289,0.0,,Error: HTTPError,,,404 Client Error: Not Found for url: https://alphafold.ebi.ac.uk/api/prediction/A0ABI8AP74
 A0ABM1VU93,1,28,89,0.0,,Error: HTTPError,,,404 Client Error: Not Found for url: https://alphafold.ebi.ac.uk/api/prediction/A0ABM1VU93
 F1M4M6,1,881,960,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F1M4M6-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F1M4M6-F1-model_v6.pdb
-F5XM39,1,191,250,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F5XM39-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F5XM39-F1-model_v6.pdb
-F5YNS0,1,24,89,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F5YNS0-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F5YNS0-F1-model_v6.pdb
-F5YA60,1,28,95,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F5YA60-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F5YA60-F1-model_v6.pdb
-F8J2H4,1,253,355,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F8J2H4-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F8J2H4-F1-model_v6.pdb
-F8N8D3,1,475,543,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F8N8D3-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F8N8D3-F1-model_v6.pdb
-F8PV27,1,559,644,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F8PV27-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F8PV27-F1-model_v6.pdb
-F8X014,1,364,432,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F8X014-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F8X014-F1-model_v6.pdb
-F8X015,1,53,105,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-F8X015-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-F8X015-F1-model_v6.pdb
-G0A619,1,35,115,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G0A619-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G0A619-F1-model_v6.pdb
-G0KZG7,1,51,109,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G0KZG7-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G0KZG7-F1-model_v6.pdb
-G0MB66,1,267,351,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G0MB66-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G0MB66-F1-model_v6.pdb
-G0MN86,1,373,454,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G0MN86-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G0MN86-F1-model_v6.pdb
-G0NEC6,1,13,96,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G0NEC6-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G0NEC6-F1-model_v6.pdb
 G3N7Y4,1,828,921,0.9574,,Partial,,https://alphafold.ebi.ac.uk/files/AF-G3N7Y4-F1-model_v6.pdb,
 G3N7Y4,2,922,1012,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-G3N7Y4-F1-model_v6.pdb,
 G3N7Y4,3,1014,1113,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-G3N7Y4-F1-model_v6.pdb,
 G3NF07,1,782,847,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-G3NF07-F1-model_v6.pdb,
 G3NF07,2,849,934,0.0,,No coverage,,https://alphafold.ebi.ac.uk/files/AF-G3NF07-F1-model_v6.pdb,
-G3P0Q9,1,261,345,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P0Q9-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P0Q9-F1-model_v6.pdb
-G3P4V0,1,261,345,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P4V0-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P4V0-F1-model_v6.pdb
-G3P4T8,1,250,334,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P4T8-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P4T8-F1-model_v6.pdb
-G3P574,1,318,414,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P574-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P574-F1-model_v6.pdb
-G3PAN3,1,518,617,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3PAN3-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3PAN3-F1-model_v6.pdb
 G3P6R0,1,214,298,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G3P6R0-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G3P6R0-F1-model_v6.pdb
 G9KD56,1,590,689,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD56-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD56-F1-model_v6.pdb
 G9KD60,1,605,704,0.0,,Error: HTTPError,,https://alphafold.ebi.ac.uk/files/AF-G9KD60-F1-model_v6.pdb,429 Client Error: Too Many Requests for url: https://alphafold.ebi.ac.uk/files/AF-G9KD60-F1-model_v6.pdb
